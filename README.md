@@ -7,5 +7,5 @@
 ##############################################
 
 * Video: Snort to prevent DDOS Attack simulation using python automation.mp4
->>>Project Description: The motivation of this project was to use Snort as IDS and automate the IPS process via iptables for external addresses and for the testing, it detects and notifies the attacker's address for internal addresses.
+>>>Project Description: The motivation of this project was to use Snort as IDS and automate the IPS process via the Ubuntu OS feature for external addresses and for the testing, it detects and notifies the attacker's address for internal addresses.
 >>>Scenario: I was working for a client who wanted OS-oriented simple IPS configuration without the complexity of additional hardware or systems for his webservers.
