@@ -6,6 +6,14 @@
 
 ##############################################
 
-* Video: Snort to prevent DDOS Attack simulation using python automation.mp4
->>>Project Description: The motivation of this project was to use Snort as IDS and automate the IPS process via the Ubuntu OS feature for external addresses and for the testing, it detects and notifies the attacker's address for internal addresses.
+* Title: Real-time DDoS Defense for Debian Servers 
+>>>Project Description: It is an innovative DDoS mitigation system meticulously crafted for Debian-based servers. The
+inspiration behind this project was the desire to utilize Snort as an Intrusion Detection System (IDS) and automate the
+Intrusion Prevention System (IPS) process through the native features of the Ubuntu OS, making it a seamless experience for
+both external and internal addresses. We have successfully developed this project to fulfil a specific client need.
+
+![project-snort](https://github.com/Binta-Ansary-Shantona/My-CyberSec-Projects/assets/60093184/d5a78e28-4bca-4818-9372-41e849a284e3)
+
+
+>>>--------------------------------------------------------------------------------------------------------------------
 >>>Scenario: I was working for a client who wanted OS-oriented simple IPS configuration without the complexity of additional hardware or systems for his webservers.
